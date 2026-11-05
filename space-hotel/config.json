@@ -5,7 +5,8 @@
   "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/space-hotel/background.jpg",
   "accentColor": "#C9A2FF",
   "scrimOpacity": 0.62,
-  "language": "th",
+  "language": "en",
+  "timeFormat": "12h",
   "setupPin": "1981",
   "refreshMinutes": 30,
   "wifi": {
