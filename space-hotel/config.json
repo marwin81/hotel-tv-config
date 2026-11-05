@@ -1,7 +1,7 @@
 {
   "hotelName": "Space Hotel",
   "welcomeTitle": "Welcome to Space Hotel",
-  "welcomeSubtitle": "ทดสอบโหลดจากส่วนกลาง ✓",
+  "welcomeSubtitle": "ข้อต้อนรับสู่สวรรค์ชั้น 7",
   "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/space-hotel/background.jpg",
   "accentColor": "#C9A2FF",
   "scrimOpacity": 0.62,
