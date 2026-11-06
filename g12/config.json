@@ -4,6 +4,7 @@
   "welcomeSubtitle": "",
   "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/g12/background.jpg",
   "accentColor": "#C9A46A",
+  "clockColor": "#1A1A1A",
   "scrimOpacity": 0.62,
   "language": "en",
   "timeFormat": "12h",
