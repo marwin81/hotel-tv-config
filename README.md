@@ -35,4 +35,4 @@ adb shell am start -n com.hoteltv.launcher/.SetupActivity --es config_url "<ล�
 | โรงแรม | โฟลเดอร์ |
 |---|---|
 | Space Hotel | `space-hotel/` |
-| Galleria 12 (G12) | `g12/` (ยังไม่มีรูปพื้นหลัง — ใส่ background.jpg แล้วแก้ backgroundUrl) |
+| Galleria 12 Hotel Bangkok (G12) | `g12/` (ยังไม่มีรูปพื้นหลัง — ใส่ background.jpg แล้วแก้ backgroundUrl) |
