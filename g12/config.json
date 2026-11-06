@@ -1,0 +1,24 @@
+{
+  "hotelName": "",
+  "welcomeTitle": "Welcome",
+  "welcomeSubtitle": "",
+  "backgroundUrl": "",
+  "accentColor": "#C9A46A",
+  "scrimOpacity": 0.62,
+  "language": "en",
+  "timeFormat": "12h",
+  "setupPin": "1981",
+  "refreshMinutes": 30,
+  "autostartPackage": "com.usbru.iptv",
+  "wifi": {
+    "ssid": "",
+    "password": "",
+    "ssidLabel": "Wi-Fi",
+    "passwordLabel": "Password"
+  },
+  "apps": [
+    { "label": "Live TV", "subtitle": "TV Channels", "package": "com.usbru.iptv" },
+    { "label": "YouTube", "subtitle": "Videos", "package": "com.google.android.youtube.tv" },
+    { "label": "Netflix", "subtitle": "Movies & Series", "package": "com.netflix.mediaclient" }
+  ]
+}
