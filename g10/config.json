@@ -27,6 +27,11 @@
       "label": "YouTube",
       "subtitle": "Videos",
       "package": "com.google.android.youtube.tv"
+    },
+    {
+      "label": "Netflix",
+      "subtitle": "Movies & Series",
+      "package": "com.netflix.mediaclient"
     }
   ]
 }
