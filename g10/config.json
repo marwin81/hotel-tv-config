@@ -10,7 +10,7 @@
   "timeFormat": "12h",
   "setupPin": "1981",
   "refreshMinutes": 30,
-  "autostartPackage": "",
+  "autostartPackage": "com.niklabs.pp",
   "wifi": {
     "ssid": "Galleria-10_Free-WiFi",
     "password": "026150999",
