@@ -1,6 +1,6 @@
 {
-  "hotelName": "",
-  "welcomeTitle": "Welcome",
+  "hotelName": "Galleria 12",
+  "welcomeTitle": "Welcome to Galleria 12",
   "welcomeSubtitle": "",
   "backgroundUrl": "",
   "accentColor": "#C9A46A",
@@ -11,14 +11,26 @@
   "refreshMinutes": 30,
   "autostartPackage": "com.usbru.iptv",
   "wifi": {
-    "ssid": "",
-    "password": "",
+    "ssid": "Galleria 12 Bangkok tower B",
+    "password": "022060999",
     "ssidLabel": "Wi-Fi",
     "passwordLabel": "Password"
   },
   "apps": [
-    { "label": "Live TV", "subtitle": "TV Channels", "package": "com.usbru.iptv" },
-    { "label": "YouTube", "subtitle": "Videos", "package": "com.google.android.youtube.tv" },
-    { "label": "Netflix", "subtitle": "Movies & Series", "package": "com.netflix.mediaclient" }
+    {
+      "label": "Live TV",
+      "subtitle": "TV Channels",
+      "package": "com.usbru.iptv"
+    },
+    {
+      "label": "YouTube",
+      "subtitle": "Videos",
+      "package": "com.google.android.youtube.tv"
+    },
+    {
+      "label": "Netflix",
+      "subtitle": "Movies & Series",
+      "package": "com.netflix.mediaclient"
+    }
   ]
 }
