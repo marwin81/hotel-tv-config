@@ -2,7 +2,7 @@
   "hotelName": "Galleria 12 Hotel Bangkok",
   "welcomeTitle": "Welcome to Galleria 12 Hotel Bangkok",
   "welcomeSubtitle": "",
-  "backgroundUrl": "",
+  "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/g12/background.jpg",
   "accentColor": "#C9A46A",
   "scrimOpacity": 0.62,
   "language": "en",
