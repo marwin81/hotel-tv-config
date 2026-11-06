@@ -2,8 +2,9 @@
   "hotelName": "Galleria 10 Hotel Bangkok",
   "welcomeTitle": "Welcome to Galleria 10 Hotel Bangkok",
   "welcomeSubtitle": "",
-  "backgroundUrl": "",
+  "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/g10/background.jpg",
   "accentColor": "#C9A46A",
+  "clockColor": "#1A1A1A",
   "scrimOpacity": 0.62,
   "language": "en",
   "timeFormat": "12h",
@@ -17,7 +18,15 @@
     "passwordLabel": "Password"
   },
   "apps": [
-    { "label": "Live TV", "subtitle": "TV Channels", "package": "com.niklabs.pp" },
-    { "label": "YouTube", "subtitle": "Videos", "package": "com.google.android.youtube.tv" }
+    {
+      "label": "Live TV",
+      "subtitle": "TV Channels",
+      "package": "com.niklabs.pp"
+    },
+    {
+      "label": "YouTube",
+      "subtitle": "Videos",
+      "package": "com.google.android.youtube.tv"
+    }
   ]
 }
