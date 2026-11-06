@@ -43,43 +43,5 @@
       "package": "",
       "url": ""
     }
-  ],
-  "info": {
-    "buttonLabel": "ข้อมูลโรงแรม & บริการ",
-    "title": "Hotel Information",
-    "subtitle": "ข้อมูลและบริการของโรงแรม",
-    "backLabel": "กลับหน้าหลัก",
-    "items": [
-      {
-        "tag": "CONTACT",
-        "title": "Front Desk",
-        "body": "กด [เบอร์ภายใน] จากโทรศัพท์ในห้อง"
-      },
-      {
-        "tag": "DINING",
-        "title": "ห้องอาหาร [ชื่อ]",
-        "body": "ชั้น [X] · เปิด [เวลา]"
-      },
-      {
-        "tag": "BREAKFAST",
-        "title": "อาหารเช้า",
-        "body": "[เวลา] · ชั้น [X]"
-      },
-      {
-        "tag": "POOL & GYM",
-        "title": "สระว่ายน้ำ & ฟิตเนส",
-        "body": "ชั้น [X] · เปิด [เวลา]"
-      },
-      {
-        "tag": "CHECK-OUT",
-        "title": "เช็กเอาต์",
-        "body": "ก่อน [เวลา] · ติดต่อ Front Desk"
-      },
-      {
-        "tag": "SIGHTSEEING",
-        "title": "สถานที่ท่องเที่ยว",
-        "body": "แนะนำที่เที่ยวใกล้โรงแรม · [รายการสถานที่]"
-      }
-    ]
-  }
+  ]
 }
