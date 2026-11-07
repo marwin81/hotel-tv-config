@@ -9,13 +9,26 @@
   "timeFormat": "12h",
   "setupPin": "1981",
   "refreshMinutes": 30,
-  "autostartPackage": "",
+  "autostartPackage": "com.niklabs.pp",
   "wifi": {
     "ssid": "",
     "password": ""
   },
   "apps": [
-    { "label": "Live TV", "subtitle": "TV Channels", "package": "com.niklabs.pp" },
-    { "label": "YouTube", "subtitle": "Videos", "package": "com.google.android.youtube.tv" }
+    {
+      "label": "Live TV",
+      "subtitle": "TV Channels",
+      "package": "com.niklabs.pp"
+    },
+    {
+      "label": "YouTube",
+      "subtitle": "Videos",
+      "package": "com.google.android.youtube.tv"
+    },
+    {
+      "label": "Netflix",
+      "subtitle": "Movies & Series",
+      "package": "com.netflix.mediaclient"
+    }
   ]
 }
