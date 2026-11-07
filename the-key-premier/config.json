@@ -2,7 +2,7 @@
   "hotelName": "The Key Premier",
   "welcomeTitle": "Welcome to The Key Premier",
   "welcomeSubtitle": "",
-  "backgroundUrl": "",
+  "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/the-key-premier/background.jpg",
   "accentColor": "#C9A46A",
   "scrimOpacity": 0.62,
   "language": "en",
