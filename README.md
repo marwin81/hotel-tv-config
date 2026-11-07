@@ -37,3 +37,4 @@ adb shell am start -n com.hoteltv.launcher/.SetupActivity --es config_url "<р╕ер
 | Space Hotel | `space-hotel/` |
 | Galleria 12 Hotel Bangkok (G12) | `g12/` |
 | Galleria 10 Hotel Bangkok (G10) | `g10/` |
+| The Key Premier | `the-key-premier/` |

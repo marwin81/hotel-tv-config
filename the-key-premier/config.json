@@ -1,0 +1,21 @@
+{
+  "hotelName": "The Key Premier",
+  "welcomeTitle": "Welcome to The Key Premier",
+  "welcomeSubtitle": "",
+  "backgroundUrl": "",
+  "accentColor": "#C9A46A",
+  "scrimOpacity": 0.62,
+  "language": "en",
+  "timeFormat": "12h",
+  "setupPin": "1981",
+  "refreshMinutes": 30,
+  "autostartPackage": "",
+  "wifi": {
+    "ssid": "",
+    "password": ""
+  },
+  "apps": [
+    { "label": "Live TV", "subtitle": "TV Channels", "package": "com.niklabs.pp" },
+    { "label": "YouTube", "subtitle": "Videos", "package": "com.google.android.youtube.tv" }
+  ]
+}
