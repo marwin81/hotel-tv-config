@@ -4,6 +4,7 @@
   "welcomeSubtitle": "",
   "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/arcadia-suite/background.jpg",
   "accentColor": "#C9A46A",
+  "clockColor": "#000000",
   "scrimOpacity": 0.62,
   "language": "en",
   "timeFormat": "12h",
