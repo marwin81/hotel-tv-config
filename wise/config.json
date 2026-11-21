@@ -1,0 +1,33 @@
+{
+  "hotelName": "Wise",
+  "welcomeTitle": "Welcome to Wise",
+  "welcomeSubtitle": "",
+  "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/wise/background.jpg",
+  "accentColor": "#C9A46A",
+  "scrimOpacity": 0.62,
+  "language": "en",
+  "timeFormat": "12h",
+  "setupPin": "1981",
+  "refreshMinutes": 30,
+  "wifi": {
+    "ssid": "",
+    "password": ""
+  },
+  "apps": [
+    {
+      "label": "Live TV",
+      "subtitle": "TV Channels",
+      "package": "com.niklabs.pp"
+    },
+    {
+      "label": "YouTube",
+      "subtitle": "Videos",
+      "package": "com.google.android.youtube.tv"
+    },
+    {
+      "label": "Netflix",
+      "subtitle": "Movies & Series",
+      "package": "com.netflix.ninja"
+    }
+  ]
+}

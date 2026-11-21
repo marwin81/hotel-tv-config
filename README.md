@@ -39,3 +39,4 @@ adb shell am start -n com.hoteltv.launcher/.SetupActivity --es config_url "<ล�
 | Galleria 10 Hotel Bangkok (G10) | `g10/` |
 | The Key Premier | `the-key-premier/` |
 | Arcadia Suite Bangkok | `arcadia-suite/` |
+| Wise (demo, Homatics Box HD - Netflix คือ `com.netflix.ninja`) | `wise/` |
