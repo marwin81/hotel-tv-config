@@ -1,0 +1,33 @@
+{
+  "hotelName": "New Wangtong",
+  "welcomeTitle": "Welcome to New Wangtong",
+  "welcomeSubtitle": "",
+  "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/new-wangtong/background.jpg",
+  "accentColor": "#C9A2FF",
+  "scrimOpacity": 0.62,
+  "language": "en",
+  "timeFormat": "12h",
+  "setupPin": "1981",
+  "refreshMinutes": 30,
+  "wifi": {
+    "ssid": "",
+    "password": ""
+  },
+  "apps": [
+    {
+      "label": "Live TV",
+      "subtitle": "TV Channels",
+      "package": "com.niklabs.pp"
+    },
+    {
+      "label": "YouTube",
+      "subtitle": "Videos",
+      "package": "com.google.android.youtube.tv"
+    },
+    {
+      "label": "Netflix",
+      "subtitle": "Movies & Series",
+      "package": "com.netflix.ninja"
+    }
+  ]
+}
