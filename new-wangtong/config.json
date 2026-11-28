@@ -1,7 +1,9 @@
 {
   "hotelName": "New Wang Tong Hotel",
   "welcomeTitle": "Welcome",
-  "welcomeSubtitle": "to",
+  "welcomeSubtitle": "To",
+  "welcomeSubtitleScale": 1.2,
+  "welcomeSubtitleShift": -3,
   "welcomeLayout": "center",
   "backgroundUrl": "https://raw.githubusercontent.com/marwin81/hotel-tv-config/main/new-wangtong/background.jpg?v=4",
   "accentColor": "#C9A46A",
@@ -11,6 +13,7 @@
   "setupPin": "1981",
   "refreshMinutes": 30,
   "wifiTextScale": 2.0,
+  "tileTextScale": 2.0,
   "wifi": {
     "ssid": "NWT.Hotel",
     "password": "NWTH2515",
