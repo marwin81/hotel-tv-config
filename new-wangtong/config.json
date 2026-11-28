@@ -10,8 +10,10 @@
   "setupPin": "1981",
   "refreshMinutes": 30,
   "wifi": {
-    "ssid": "",
-    "password": ""
+    "ssid": "NWT.Hotel",
+    "password": "NWTH2515",
+    "ssidLabel": "Wi-Fi",
+    "passwordLabel": "Password"
   },
   "apps": [
     {
